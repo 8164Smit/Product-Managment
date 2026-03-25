@@ -1,0 +1,12 @@
+{
+  "products": [
+    {
+      "title": "Phone",
+      "price": "13200",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFEpeAz0pkq-QatKR3bR0hAzwGfBEeJY3OK67KS_qU9-_F52sMQ1RkJShZKgVYo7sdsLmvHugtWNjOoPur-X7NM1J6IijyXAUHQLc8ui_z_uMduhnRtV2GPQ",
+      "category": "Electronics",
+      "id": "nXdNnHDflKA"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
